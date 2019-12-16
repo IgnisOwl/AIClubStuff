@@ -18,7 +18,7 @@ trainingData = 90
 trainX = allDataFrame[0:trainingData] #this is the training input, from 0-100 is basically what its saying
 #Remove the "class_type" column from it, because this is what the neural network is trying to figure out, or the output(Y)
 trainX = trainX.drop(columns=["class_type"])
-#we also have to remove the animal name because that cannot be used in neural network's computation
+#we also have to remove the animal name because that cannot be used in neural network's computation(the name does not define any animal characteristics)
 trainX = trainX.drop(columns=["animal_name"])
 #correct Y values:
 trainY = allDataFrame[0:trainingData][["class_type"]]
