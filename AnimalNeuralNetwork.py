@@ -1,3 +1,4 @@
+#COLLAB: https://colab.research.google.com/drive/1BayozelZeZozqawPwZLoX-nndznZnC67
 #NOTE: not configured to run with the GPU on non-google-collab runtime environments
 #The Animal Classification Neural Network
 
