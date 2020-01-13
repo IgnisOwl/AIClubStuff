@@ -8,4 +8,6 @@
     SLIDES:  https://docs.google.com/presentation/d/1cNX5W8ftXg1KjdQo6at5CKNsRrDfcEwng5iEGenPElg/edit?usp=sharing
     GOOGLE COLAB: https://colab.research.google.com/drive/1BayozelZeZozqawPwZLoX-nndznZnC67
     
-5) CNNS: 
+5) Basic Image recognition:
+    
+6) CNNS(improving Image recognition): 
