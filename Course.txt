@@ -11,3 +11,6 @@
 5) Basic Image recognition: https://colab.research.google.com/drive/1Px6QOPDtTCn_fF-uYRJXYlDNLhTmLhjk
     
 6) CNNS(improving Image recognition) Introduction: https://docs.google.com/presentation/d/1NoFuqh6ug_v0g5GCgbmu64EmE6v9Ji1cVlEpnuQpUR8/edit?usp=sharing
+
+7) Convolutional neural network code:
+    https://colab.research.google.com/drive/1Q2KqUG3yE_sw9muYEAd1fqSt61sU--ms
