@@ -3,7 +3,7 @@ from tensorflow import keras
 from keras.layers import Flatten, Dense, Conv2D, MaxPooling2D #flatten the data, dense layers(for fully connected), conv2d is convolutional layers, maxpooling is the max value pooling method
 from keras.models import Sequential
 
-WEIGHTS_FILE = "weights.h5" #saves the weights so we don't have to retrain it, you can also save the entire model, not just the weights, so you don't have to run the build_model() function again
+WEIGHTS_FILE = "weights.h5" #saves the weights so we don't have to retrain it, you can also save the entire model, not just the weights, so you don't have to run the build_model() function again(saving the modeling wasn't working for sum reason)
 
 #use the built in keras handwritten digits set
 data = keras.datasets.mnist
