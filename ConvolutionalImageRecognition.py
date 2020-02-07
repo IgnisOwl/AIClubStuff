@@ -1,4 +1,4 @@
-  import tensorflow as tf
+import tensorflow as tf
 from tensorflow import keras
 from keras.layers import Flatten, Dense, Conv2D, MaxPooling2D #flatten the data, dense layers(for fully connected), conv2d is convolutional layers, maxpooling is the max value pooling method
 from keras.models import Sequential
