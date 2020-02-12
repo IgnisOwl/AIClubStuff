@@ -1,18 +1,24 @@
-1) Introduction to neural network Slides: https://docs.google.com/presentation/d/1YpkUDMbfF_hfO7mhy1xvCvlH3_0r-i9mCXJ2qQ6quc8/edit?usp=sharing
+1) Introduction to neural network Slides:
+    SLIDES: https://docs.google.com/presentation/d/1YpkUDMbfF_hfO7mhy1xvCvlH3_0r-i9mCXJ2qQ6quc8/edit?usp=sharing
 
-2) Diving Deeper in neural networks(don't worry if it doesn't make too much sense, will be explained later): https://docs.google.com/presentation/d/1n8FN_6QHGBJAbHj7o8t1anWTVFfHJrAY2wZf5lKGCJw/edit?usp=sharing
+2) Diving Deeper in neural networks(don't worry if it doesn't make too much sense, will be explained later): 
+    SLIDES: https://docs.google.com/presentation/d/1n8FN_6QHGBJAbHj7o8t1anWTVFfHJrAY2wZf5lKGCJw/edit?usp=sharing
 
-3) Python Crash Course: https://docs.google.com/presentation/d/1-BFHFuMDAsFlakal7hBd_MyUd-eB82v6XN0uhGfCxRs/edit?usp=sharing
+3) Python Crash Course: 
+    SLIDES: https://docs.google.com/presentation/d/1-BFHFuMDAsFlakal7hBd_MyUd-eB82v6XN0uhGfCxRs/edit?usp=sharing
 
 4) First basic neural network: 
     SLIDES:  https://docs.google.com/presentation/d/1cNX5W8ftXg1KjdQo6at5CKNsRrDfcEwng5iEGenPElg/edit?usp=sharing
     GOOGLE COLAB: https://colab.research.google.com/drive/1BayozelZeZozqawPwZLoX-nndznZnC67
     
-5) Basic Image recognition: https://colab.research.google.com/drive/1Px6QOPDtTCn_fF-uYRJXYlDNLhTmLhjk
+5) Basic Image recognition(no convolution):
+    GOOGLE COLAB: https://colab.research.google.com/drive/1Px6QOPDtTCn_fF-uYRJXYlDNLhTmLhjk
     
-6) CNNS(improving Image recognition) Introduction: https://docs.google.com/presentation/d/1NoFuqh6ug_v0g5GCgbmu64EmE6v9Ji1cVlEpnuQpUR8/edit?usp=sharing
+6) CNNS(improving Image recognition) Introduction: 
+    SLIDES: https://docs.google.com/presentation/d/1NoFuqh6ug_v0g5GCgbmu64EmE6v9Ji1cVlEpnuQpUR8/edit?usp=sharing
 
-7) Convolutional neural network code:
-    https://colab.research.google.com/drive/1Q2KqUG3yE_sw9muYEAd1fqSt61sU--ms
+7) Convolutional neural network:
+    GOOGLE COLAB: https://colab.research.google.com/drive/1Q2KqUG3yE_sw9muYEAd1fqSt61sU--ms
     
 8) Organizing our code better with classes:
+    GOOGLE COLAB: https://colab.research.google.com/drive/118GVupW73xm1AagXxGxIDZpSawuFj_0U
