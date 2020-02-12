@@ -14,3 +14,5 @@
 
 7) Convolutional neural network code:
     https://colab.research.google.com/drive/1Q2KqUG3yE_sw9muYEAd1fqSt61sU--ms
+    
+8) Organizing our code better with classes:
